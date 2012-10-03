@@ -1,0 +1,69 @@
+---
+NCR:
+  code: NCR
+  name: National Capital Region
+  position: 1
+CAR: 
+  code: CAR
+  name: Cordillera Autonomous Region
+  position: 2
+ILOCOS:
+  code: Region I
+  name: Ilocos Region
+  position: 3
+CAGAYAN:
+  code: REGION II
+  name: Cagayan Region     
+  position: 4
+CENTRAL_LUZON:
+  code: REGION III
+  name: Central Luzon
+  position: 5
+CALABARZON:
+  code: CALABARZON     
+  name: CALABARZON    
+  position: 6
+MIMAROPA:
+  code: MIMAROPA 
+  name: MIMAROPA 
+  position: 7
+BICOL:
+  code: REGION V
+  name: Bicol
+  position: 8
+WESTERN_VISAYAS:
+  code: REGION VI
+  name: Western Visayas
+  position: 9
+CENTRAL_VISAYAS:
+  code: REGION VII
+  name: Central Visayas
+  position: 10
+EASTERN_VISAYAS:
+  code: REGION VIII
+  name: Eastern Visayas
+  position: 11
+ZAMBOANGA_PENINSULA:
+  code: REGION IX
+  name: Zamboanga Peninsula
+  position: 12
+NORTHERN_MINDANAO:
+  code: REGION X
+  name: Northern Mindanao
+  position: 13
+DAVAO:
+  code: REGION XI
+  name: Davao Region
+  position: 14
+SOCSARGEN:
+  code: SOCSARGEN
+  name: SOCSARGEN
+  position: 15
+ARMM:
+  code: ARMM 
+  name: ARMM 
+  position: 17
+CARAGA:
+  code: CARAGA   
+  name: CARAGA  
+  position: 16

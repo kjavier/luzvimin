@@ -1,0 +1,19 @@
+---
+BUKIDNON:
+  name: Bukidnon
+  position: 1
+MISAMIS_ORIENTAL:
+  name: Misamis Oriental
+  position: 2
+MISAMIS_OCCIDENTAL:
+  name: Misamis Occidental
+  position: 3
+CAMIGUIN:
+  name: Camiguin
+  position: 4
+LANAO_DEL_NORTE:
+  name: Lanao del Norte
+  position: 5
+CAGAYAN_DE_ORO:
+  name: Cagayan de Oro
+  position: 6

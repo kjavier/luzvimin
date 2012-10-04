@@ -1,0 +1,25 @@
+---
+AKLAN:
+  name: Aklan
+  position: 1
+ANTIQUE:
+  name: Antique
+  position: 2
+CAPIZ:
+  name: Capiz
+  position: 3
+GUIMARAS:
+  name: Guimaras
+  position: 4
+ILOILO:
+  name: Iloilo
+  position: 5
+ILOILO_CITY:
+  name: Iloilo City
+  position: 6
+NEGROS_OCCIDENTAL:
+  name: Negros Occidental
+  position: 7
+BACOLOD_CITY:
+  name: Bacolod City
+  position: 8          

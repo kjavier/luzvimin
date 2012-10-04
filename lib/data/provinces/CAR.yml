@@ -1,0 +1,22 @@
+---
+ABRA:
+  name: Abra
+  position: 1
+APAYAO:
+  name: Apayao
+  position: 2
+BAGUIO:
+  name: Baguio
+  position: 3
+BENGUET:
+  name: Benguet
+  position: 4
+IFUGAO:
+  name: Ifugao
+  position: 5
+KALINGA:
+  name: Kalinga
+  position: 6
+MOUNTAIN_PROVINCE:
+  name: Mountain Province
+  position: 7

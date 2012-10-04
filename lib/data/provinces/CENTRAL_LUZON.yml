@@ -1,0 +1,28 @@
+---
+AURORA:
+  name: Aurora
+  position: 1
+BATAAN:
+  name: Bataan
+  position: 2
+BULACAN:
+  name: Bulacan
+  position: 3
+NUEVA_ECIJA:
+  name: Nueva Ecija
+  position: 4
+PAMPANGA:
+  name: Pampanga 
+  position: 5
+TARLAC:
+  name: Tarlac 
+  position: 6
+ZAMBALES:
+  name: Zambales
+  position: 7
+ANGELES:
+  name: Angeles
+  position: 8
+OLONGAPO:
+  name: Olongapo
+  position: 9

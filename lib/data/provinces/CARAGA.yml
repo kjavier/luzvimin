@@ -1,0 +1,16 @@
+---
+BUTUAN_CITY:
+  name: Butuan City
+  position: 1
+AGUSAN_DEL_SUR:
+  name: Agusan del Sur
+  position: 2
+DINAGAY:
+  name: Dinagay
+  position: 3
+SURIGAO_DEL_NORTE:
+  name: Surigao del Norte
+  position: 4
+SURIGAO_DEL_SUR:
+  name: Surigao del Sur
+  position: 5

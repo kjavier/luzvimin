@@ -1,0 +1,22 @@
+---
+CEBU: 
+  name: Cebu
+  position: 1
+CEBU_CITY:
+  name: Cebu City
+  position: 2
+LAPU_LAPU_CITY:
+  name: Lapu-Lapu City
+  position: 3
+MANDAUE_CITY:
+  name: Mandaue City
+  position: 4
+BOHOL:
+  name: Bohol
+  position: 5
+NEGROS_ORIENTAL:
+  name: Negros Oriental
+  position: 6
+SIQUIJOR:
+  name: Siquijor
+  position: 7

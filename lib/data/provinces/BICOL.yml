@@ -1,0 +1,19 @@
+---
+ALBAY:
+  name: Albay
+  position: 1
+CAMARINES_NORTE:
+  name: Camarines Norte
+  position: 2
+CAMARINES_SUR:
+  name: Camarines Sur
+  position: 3
+NAGA:
+  name: Naga
+  position: 4
+MASBATE:
+  name: Masbate
+  position: 5
+SORSOGON:
+  name: Sorsogon
+  position: 6

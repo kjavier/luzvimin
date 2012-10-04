@@ -1,0 +1,17 @@
+---    
+COMPOSTELA_VALLEY:
+  name: COMPOSTELA Valley
+  position: 1
+DAVAO_DEL_NORTE:
+  name: Davao del Norte
+  position: 2
+DAVAO_DEL_SUR:
+  name: Davao del Sur
+  position: 3
+DAVAO_ORIENTAL:
+  name: Davao Oriental
+  position: 4
+DAVAO_CITY:
+  name: Davao City
+  position: 5
+

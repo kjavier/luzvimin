@@ -1,0 +1,19 @@
+---
+SAMAR: 
+  name: Samar
+  position: 1
+EASTERN_SAMAR:
+  name: Eastern Samar
+  position: 2
+NORTHERN_SAMAR:
+  name: Northern Samar
+  position: 3
+LEYTE:
+  name: Leyte
+  position: 4
+SOUTHERN_LEYTE:
+  name: Sourthern Leyte
+  position: 5
+BILIRAN:
+  name: Biliran
+  position: 6

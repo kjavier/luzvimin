@@ -1,0 +1,16 @@
+---
+BATANES:
+  name: Batanes
+  position: 1
+CAGAYAN_VALLEY:
+  name: Cagayan Valley
+  position: 2
+ISABELA:
+  name: Isabela
+  position: 3
+NUEVA_VISCAYA:
+  name: Nueva Viscaya
+  position: 4
+QUIRINO:
+  name: Quirino
+  position: 5

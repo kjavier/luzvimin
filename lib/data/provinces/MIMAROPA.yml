@@ -1,0 +1,16 @@
+---
+MARINDUQUE:
+  name: Marinduque
+  position: 1
+OCCIDENTAL_MINDORO:
+  name: Occidental Mindoro
+  position: 2
+ORIENTAL_MINDORO:
+  name: Oriental Mindoro
+  position: 3
+PALAWAN:
+  name: Palawan
+  position: 4
+ROMBLON:
+  name: Romblon
+  position: 5

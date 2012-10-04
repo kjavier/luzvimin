@@ -1,0 +1,20 @@
+--- 
+BASILAN:
+  name: Basilan
+  position: 1
+LANAO_DEL_SUR:
+  name: Lanao del Sur
+  position: 2
+MAGUINDANAO:
+  name: Maguindanao
+  position: 3
+SHARIF_KABUNSUAN:
+  name: Sharif Kabunsuan
+  position: 4
+SULU:
+  name: Sulu 
+  position: 5
+TAWI_TAWI:
+  name: Tawi-Tawi
+  position: 6
+

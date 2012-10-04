@@ -1,0 +1,25 @@
+---
+CAVITE:
+  name: Cavite
+  position: 1
+TAGAYTAY:
+  name: Tagaytay
+  position: 2
+LAGUNA:
+  name: Laguna
+  position: 3
+BATANGAS:
+  name: Batangas
+  position: 4
+RIZAL:
+  name: Rizal
+  position: 5
+ANTIPOLO:
+  name: Antipolo
+  position: 6
+QUEZON:
+  name: Quezon
+  position: 7
+LUCENA:
+  name: Lucena
+  position: 8

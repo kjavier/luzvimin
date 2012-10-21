@@ -1,6 +1,6 @@
 # Luzvimin
 
-TODO: Write a gem description
+Luzvimin is a gem that lists all regions and provinces in the Philippines
 
 ## Installation
 
@@ -18,7 +18,27 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To list all regions:
+  
+    Luzvimin.regions
+
+To create a select tag for all regions:
+  
+    Luzvimin.select_regions
+
+To get details about a region:
+
+    region = Luzvimin.region('NCR')
+    region.code is 'NCR'.
+    region.name is 'National Capital Region'.
+
+To get a region's provinces:
+
+    region.provinces
+
+To create a select tag for all region's provinces:
+
+    region.select_provinces
 
 ## Contributing
 

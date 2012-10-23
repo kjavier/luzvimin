@@ -25,7 +25,7 @@ module Luzvimin
       provinces.map { |k, v| [k, v] }.sort_by{ |k, v| v['position'] }  
     end 
 
-    def select_provinces
+    def provinces_options_for_select
       provinces.map {|s| [s[1]['name'],s[0]]}
     end 
   end
@@ -39,7 +39,7 @@ module Luzvimin
       REGIONS      
     end
 
-    def select_regions
+    def regions_options_for_select
       REGIONS.map {|s| [s[1]['name'],s[0]]}
     end
   end

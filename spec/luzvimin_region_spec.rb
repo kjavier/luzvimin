@@ -30,15 +30,15 @@ describe Luzvimin::Region do
     end
   end
 
-  describe 'select_provinces' do
+  describe 'provinces_options_for_select' do
     context 'all' do
-      subject { region.select_provinces }
+      subject { region.provinces_options_for_select }
       it { should be_an(Array) }
       it { should have(1).items }
     end
 
     context 'first province' do
-      subject { region.select_provinces.first }
+      subject { region.provinces_options_for_select.first }
       it { should be_an(Array) }
       it { should_not be_empty }
       it { should have(2).items }

@@ -22,9 +22,9 @@ To list all regions:
   
     Luzvimin.regions
 
-To create a select tag for all regions:
+To create options for a select tag for all regions:
   
-    Luzvimin.select_regions
+    Luzvimin.regions_options_for_select
 
 To get details about a region:
 
@@ -36,9 +36,9 @@ To get a region's provinces:
 
     region.provinces
 
-To create a select tag for all region's provinces:
+To create options for select tag for a region's provinces:
 
-    region.select_provinces
+    region.provinces_options_for_select
 
 ## Contributing
 

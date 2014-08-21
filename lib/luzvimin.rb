@@ -3,9 +3,9 @@ require 'luzvimin/version'
 
 module Luzvimin
   PHILIPPINES = YAML.load_file(File.join(File.dirname(__FILE__), 'data', 'regions.yml')) || {}
-  REGIONS = PHILIPPINES.map { |k, v| [k, v] }.sort_by{ |k, v| v['position'] } 
+  REGIONS = PHILIPPINES.map { |k, v| [k, v] }.sort_by{ |k, v| v['position'] }
   METHODS = ['code', 'name', 'position', 'id']
-    
+
   attr_reader :data
 
   class Region
@@ -21,13 +21,18 @@ module Luzvimin
     end
 
     def provinces
-      provinces = YAML.load_file(File.join(File.dirname(__FILE__), 'data/provinces', "#{self.id}.yml")) || {}
-      provinces.map { |k, v| [k, v] }.sort_by{ |k, v| v['position'] }  
-    end 
+      provinces = begin
+        YAML.load_file(File.join(File.dirname(__FILE__), 'data/provinces', "#{self.id}.yml")) || {}
+      rescue => e
+        {}
+      end
+
+      provinces.map { |k, v| [k, v] }.sort_by{ |k, v| v['position'] }
+    end
 
     def provinces_options_for_select
       provinces.map {|s| [s[1]['name'],s[0]]}
-    end 
+    end
   end
 
   class << self
@@ -36,7 +41,7 @@ module Luzvimin
     end
 
     def regions
-      REGIONS      
+      REGIONS
     end
 
     def regions_options_for_select

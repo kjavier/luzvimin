@@ -40,6 +40,22 @@ To create options for select tag for a region's provinces:
 
     region.provinces_options_for_select
 
+To get details about a province:
+
+    province = region.province('METRO_MANILA')
+
+    or
+
+    province = Luzvimin.province('NCR', 'METRO_MANILA')
+
+To get the cities of a province:
+
+    cities = province.cities
+
+To create options for select tag for a province's cities:
+
+    province.cities_options_for_select
+
 ## Contributing
 
 1. Fork it

@@ -1,0 +1,13 @@
+---
+ILOCOS_NORTE:
+  name: Ilocos Norte
+  position: 1
+ILOCOS_SUR:
+  name: Ilocos Sur
+  position: 2
+LA_UNION: 
+  name: La Union
+  position: 3
+PANGASINAN:
+  name: Pangasinan
+  position: 4

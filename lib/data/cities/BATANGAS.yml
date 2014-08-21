@@ -1,0 +1,13 @@
+--- 
+STO_TOMAS:
+  name: Sto. Tomas 
+  position: 1
+BATANGAS_CITY:
+  name: Batangas City 
+  position: 2
+LIPA:
+  name: Lipa 
+  position: 3
+TANAUAN:
+  name: Tanauan 
+  position: 4

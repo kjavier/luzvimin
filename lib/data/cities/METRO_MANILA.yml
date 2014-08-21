@@ -1,0 +1,49 @@
+--- 
+MANILA:
+  name: Marawi 
+  position: 1
+MAKATI:
+  name: Makati
+  position: 2
+PASAY:
+  name: Pasay 
+  position: 3
+PARANAQUE:
+  name: Paranaque 
+  position: 4
+LAS_PINAS:
+  name: Las Pinas 
+  position: 5
+MUNTINLUPA:
+  name: Muntinlupa 
+  position: 6
+PASIG:
+  name: Pasig 
+  position: 7
+PATEROS:
+  name: Pateros 
+  position: 8
+MARIKINA:
+  name: Marikina 
+  position: 9
+MANDALUYONG:
+  name: Mandaluyong 
+  position: 10
+QUEZON_CITY:
+  name: Quezon City 
+  position: 11
+CALOOCAN:
+  name: Caloocan 
+  position: 12
+MALABON:
+  name: Malabon 
+  position: 13
+SAN_JUAN:
+  name: San Juan 
+  position: 14
+TAGUIG:
+  name: Taguig 
+  position: 15
+NAVOTAS:
+  name: Navotas 
+  position: 16

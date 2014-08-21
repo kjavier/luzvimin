@@ -2,6 +2,8 @@ require 'yaml'
 
 module Luzvimin
   class Region
+    HOME_DIR = File.expand_path("#{File.dirname(__FILE__)}/..")
+
     Luzvimin::METHODS.each do |method|
       define_method(method) do
         @data[method] if @data
@@ -19,7 +21,7 @@ module Luzvimin
 
     def provinces
       provinces = begin
-        YAML.load_file(File.join(File.dirname(__FILE__), 'data/provinces', "#{self.id}.yml")) || {}
+        YAML.load_file(File.join(HOME_DIR, 'data/provinces', "#{self.id}.yml")) || {}
       rescue => e
         {}
       end
